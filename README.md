@@ -85,7 +85,7 @@
 <!--<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>-->
 <br>
 <p>
-  <strong>🔗 Link giới thiệu chi tiết: <a href="tquangyb11.github.io/profile" target="_blank">PRO FILE (tuanquang)</a></strong>
+  <strong>🔗 Link giới thiệu: <a href="tquangyb11.github.io/profile" target="_blank">PRO FILE (tuanquang)</a></strong>
   <br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/tuanquang201" target="_blank">https://www.facebook.com/tuanquang201</a></strong>
   <br>
@@ -96,7 +96,7 @@
 </a>
 
 <br>
-<h2 align="center">📑 Random Quote 📑</h2>
+<h2 align="center">📑 My Quote 📑</h2>
 <br>
 <div align="right">
   <img src="svg/quangdv-quotes.svg" width="846" height="150" alt="quangdv-official" />

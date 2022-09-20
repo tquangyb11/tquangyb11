@@ -87,11 +87,6 @@
 <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
 <p>
-  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-    <strong>☕ Link học lập trình MERN Stack Nâng cao của TRUNGQUANDEV (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
-  </a>
-</p>
-<p>
   <strong>🔗 Link giới thiệu chi tiết: <a href="tquangyb11.github.io/profile" target="_blank">PRO FILE (tuanquang)</a></strong>
   <br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/tuanquang201" target="_blank">https://www.facebook.com/tuanquang201</a></strong>

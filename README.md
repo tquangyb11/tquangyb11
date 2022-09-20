@@ -81,10 +81,8 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="quangdv-email" />
   </a>
 </div>
-
 <br>
-
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
+<!--<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>-->
 <br>
 <p>
   <strong>🔗 Link giới thiệu chi tiết: <a href="tquangyb11.github.io/profile" target="_blank">PRO FILE (tuanquang)</a></strong>
